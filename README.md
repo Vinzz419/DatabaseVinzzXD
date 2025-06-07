@@ -1,1 +1,1 @@
-{"status":200,"success":true,"data":[{"nomor":"6285218951518","nama":"botz"},{"nomor":"6285137526069","nama":"vinzz"},{"nomer":"6285379569315","nama":"buyer"},{"nomor":"6282113097670","nama":"murbug"}],"creator":"Vinzz-Developer"}
+{"status":200,"success":true,"data":[{"nomor":"6285218951518","nama":"botz"},{"nomor":"6285137526069","nama":"vinzz"},{"nomer":"6285379569315","nama":"buyer"},{"nomor":"6285379569315","nama":"murbug"}],"creator":"Vinzz-Developer"}
