@@ -1,1 +1,1 @@
-{"status":200,"success":true,"data":[{"nomor":"6283804353600","nama":"bot"},{"nomor":"6285117025629","nama":"botz"},{"nomor":"6289603357562","nama":"botz"},{"nomor":"6285218951518","nama":"botz"}],"creator":"Vinzz-Developer"}
+{"status":200,"success":true,"data":[{"nomor":"6283804353600","nama":"bot"},{"nomor":"6285117025629","nama":"botz"},{"nomor":"6288905301692","nama":"botz"},{"nomor":"6289603357562","nama":"botz"},{"nomor":"6285218951518","nama":"botz"}],"creator":"Vinzz-Developer"}
